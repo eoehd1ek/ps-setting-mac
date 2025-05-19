@@ -6,6 +6,12 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) throws IOException {
+        /*
+        input.txt 예제
+        1 2
+        this is long string
+        */
+
         // 백준 제출 시 다음 2줄 코드 삭제하기.
         // input.txt에서 입력받고, output.txt에 출력하도록 설정하는 코드.
         System.setIn(new FileInputStream("input.txt"));
